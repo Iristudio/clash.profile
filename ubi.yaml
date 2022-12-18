@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,ubistatic-a.akamaihd.net
   - DOMAIN-KEYWORD,ubi
   - DOMAIN-KEYWORD,ubistatic
+  - DOMAIN-KEYWORD,ubisoft-avatars.akamaized.net
